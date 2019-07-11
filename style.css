@@ -1,0 +1,31 @@
+
+h1 {
+  font-family: 'Literata', serif;
+  font-size: 55px;
+border:5px solid #FFFFFF;
+border-radius:10 px
+}
+
+h3{
+  font-family: 'Inconsolata', monospace;
+  border:5px solid #FFFFFF;
+  border-radius:10px
+}
+p{
+  font-family: 'Inconsolata', monospace;
+  font-weight: bold;
+  font-size:30px;
+}
+body{
+  background-color: #87CEEB
+
+}
+img{
+   height:300px;
+   width:250px;
+ }
+.correct-ratio {
+  object-fit: cover;
+  border: 5px solid #FFFFFF;
+  border-radius:10 px;
+}
